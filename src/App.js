@@ -8,6 +8,7 @@ import Deshbord from './component/Deshbord/Deshbord';
 import Blogs from './component/Blogs/Blogs';
 import About from './component/About/About';
 import NotFound from './component/NotFound/NotFound';
+import CustomerReviews from './component/CustomerReviews/CustomerReviews';
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
         <Route path='*' element={<NotFound></NotFound>}></Route>
 
       </Routes>
+      <CustomerReviews></CustomerReviews>
 
     </div>
   );

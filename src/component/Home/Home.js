@@ -13,6 +13,7 @@ const Home = () => {
                 <img src="Image.jpg" alt="" />
             </div>
         </div>
+
     );
 };
 

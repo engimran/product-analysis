@@ -1,0 +1,23 @@
+.review-style {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.review-style img {
+    height: 200px;
+    width: 200px;
+}
+
+.review-style p {
+    text-align: left;
+    padding-left: 50px;
+    font-weight: bold;
+}
+
+.border-style {
+    border: 5px solid bisque;
+    margin: 20px;
+    border-radius: 5px;
+
+}

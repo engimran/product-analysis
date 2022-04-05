@@ -1,56 +1,65 @@
 [
     {
         "id": "1",
-        "name": "Mouse classic",
+        "name": "Abul",
         "picture": "images/Image (1).jpg",
-        "price": 578
+        "comments": "very nice item",
+        "rating": 3
     },
     {
         "id": "2",
-        "name": "Mouse standard",
+        "name": "Habul",
         "picture": "images/Image (2).jpg",
-        "price": 1492
+        "comments": "Excellent",
+        "rating": 5
     },
     {
         "id": "3",
-        "name": "Mouse Normal",
+        "name": "Kabul",
         "picture": "images/Image (3).jpg",
-        "price": 584
+        "comments": "good",
+        "rating": 4
     },
     {
         "id": "4",
-        "name": "Mouse classic",
+        "name": "Mazed",
         "picture": "images/Image (4).jpg",
-        "price": 1326
+        "comments": "very nice",
+        "rating": 3
     },
     {
         "id": "5",
-        "name": "Mouse",
+        "name": "Kalam",
         "picture": "images/Image (5).jpg",
-        "price": 504
+        "comments": "very nice item",
+        "rating": 3
     },
     {
         "id": "6",
-        "name": "Mouse Normal",
+        "name": "Kashem",
         "picture": "images/Image (6).jpg",
-        "price": 1067
+        "comments": "Wow",
+        "rating": 5
     },
     {
         "id": "7",
-        "name": "Mouse",
+        "name": "Hashem",
         "picture": "images/Image (7).jpg",
-        "price": 1191
+        "comments": "nice",
+        "rating": 4
     },
     {
         "id": "8",
-        "name": "Mouse Normal",
+        "name": "Amzad",
         "picture": "images/Image (8).jpg",
-        "price": 1067
+        "comments": "Not bad",
+        "rating": 3
     },
     {
         "id": "9",
-        "name": "Mouse Normal",
+        "name": "Faruk",
         "picture": "images/Image (9).jpg",
-        "price": 1067
+        "comments": "ok",
+        "rating": 2
     }
 ]

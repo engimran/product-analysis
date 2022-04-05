@@ -53,8 +53,10 @@ const Dashboard = () => {
                 </BarChart>
             </div>
             <div>
-                <LineChart width={400} height={400} data={data}>
-                    <Line dataKey={'investment'}></Line>
+                <LineChart width={400} height={300} data={data}>
+                    <Line dataKey={'sell'}></Line>
+                    <XAxis dataKey={'month'}></XAxis>
+                    <YAxis dataKey={'sell'}></YAxis>
                     <Tooltip></Tooltip>
 
 

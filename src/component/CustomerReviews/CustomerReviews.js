@@ -13,7 +13,7 @@ const CustomerReviews = () => {
             <div className='review-style'>
 
                 {
-                    reviews.slice(0, 6).map(review => <div className='border-style' >
+                    reviews.slice(0, 3).map(review => <div className='border-style' >
                         <img src={review.picture} alt="" />
                         <p>Reviewer Name: {review.name}</p>
                         <p>Comments: {review.comments}</p>

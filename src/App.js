@@ -9,6 +9,7 @@ import Blogs from './component/Blogs/Blogs';
 import About from './component/About/About';
 import NotFound from './component/NotFound/NotFound';
 import CustomerReviews from './component/CustomerReviews/CustomerReviews';
+import AllReview from './component/AllReview/AllReview';
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
 
       </Routes>
       <CustomerReviews></CustomerReviews>
+      <AllReview></AllReview>
 
     </div>
   );

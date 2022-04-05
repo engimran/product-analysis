@@ -1,0 +1,10 @@
+.allReview a {
+    text-decoration: none;
+    border: 5px solid orange;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+
+}

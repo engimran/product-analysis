@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Deshboard = () => {
+const Deshbord = () => {
     return (
         <div>
 
@@ -8,4 +8,4 @@ const Deshboard = () => {
     );
 };
 
-export default Deshboard;
+export default Deshbord;
